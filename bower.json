@@ -1,0 +1,14 @@
+{
+	"name": "srouseprototyping",
+	"version": "0.1.0",
+	"main": "catapult/ViewComp.js",
+	"ignore": [
+		"**/.*",
+		"development",
+		".project"
+	],
+	"dependencies": {
+		"jquery": "~1.10.2"
+	},
+	"devDependencies": {}	
+}
